@@ -5,9 +5,7 @@ EducatEd Choice is a web-based, data-driven tool designed to help families make 
 
 ## Spring 2026 Team
 - **John**  
-  - Major Role: Data Modeler (50%)  
-  - Minor Role: Visualization (30%)  
-  - Management: Team Manager (20%)
+
 
 - **Pine (Nghia Nguyen)**  
   - Major Role: Data Analyst (50%)  
@@ -15,6 +13,4 @@ EducatEd Choice is a web-based, data-driven tool designed to help families make 
   - Management: Project Documenter (30%)
 
 - **Victoria**  
-  - Major Role: Visualization (50%)  
-  - Minor Role: Data Analyst (25%)  
-  - Management: Client Liaison (25%)
+
