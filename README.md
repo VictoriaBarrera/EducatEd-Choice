@@ -13,4 +13,6 @@ EducatEd Choice is a web-based, data-driven tool designed to help families make 
   - Management: Project Documenter (30%)
 
 - **Victoria**  
-
+  - Major Role: Visualization (50%)
+  - Minor Role: Data Analyst (25%)
+  - Management: Client Liaison (25%)
